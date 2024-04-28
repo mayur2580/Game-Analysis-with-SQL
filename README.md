@@ -35,6 +35,9 @@ Level Details Table:
 • `difficulty`: Difficulty Level
 
 • `kill_count`: Kill Count
+
 • `headshots_count`: Headshots Count
+
 • `score`: Player Score
+
 • `lives_earned`: Extra Lives Earned
